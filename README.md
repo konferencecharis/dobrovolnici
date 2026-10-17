@@ -1,6 +1,6 @@
-# Staň se dobrovolníkem na Konferenci Charis
+# Staň se dobrovolníkem na Konferenci CHARIS
 
-Jednostránkový web pro dobrovolníky Konference Charis (Výstaviště Brno, 4.–11. července 2027).
+Jednostránkový web pro dobrovolníky Konference CHARIS (Výstaviště Brno, 4.–11. července 2027).
 Čistý statický web: HTML, CSS a trochu JavaScriptu. Žádný framework, žádný build.
 
 ## Struktura

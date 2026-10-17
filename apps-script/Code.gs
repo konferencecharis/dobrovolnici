@@ -1,5 +1,5 @@
 /**
- * Příjem formuláře „Mám zájem“ (web dobrovolníků Konference Charis) do Google Tabulky.
+ * Příjem formuláře „Mám zájem“ (web dobrovolníků Konference CHARIS) do Google Tabulky.
  *
  * Skript je „vázaný“ na tabulku: vytvoř tabulku, v ní Rozšíření → Apps Script
  * a vlož sem tento kód. Postup je v NAVOD.md.

@@ -207,7 +207,7 @@
     var endpoint = cfg.zajemciEndpoint;
     if (!endpoint) {
       // Testovací režim: endpoint není nastavený, jen vypíšeme do konzole.
-      console.log("[Charis formulář – testovací režim, nic se neodesílá]", data);
+      console.log("[CHARIS formulář – testovací režim, nic se neodesílá]", data);
       setTimeout(done, 400);
       return;
     }

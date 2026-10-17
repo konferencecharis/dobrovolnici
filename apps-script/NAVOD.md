@@ -7,7 +7,7 @@ Doporučení: použijte Google účet organizace (ten, který bude správcem dat
 ## 1. Vytvoř tabulku
 
 1. Přihlas se do Google účtu, ve kterém mají data zůstat.
-2. Otevři [sheets.new](https://sheets.new) a pojmenuj tabulku třeba **„Dobrovolníci Charis 2027 – zájemci“**.
+2. Otevři [sheets.new](https://sheets.new) a pojmenuj tabulku třeba **„Dobrovolníci CHARIS 2027 – zájemci“**.
 3. Sdílej ji jen s lidmi z organizačního týmu, kteří mají na starosti dobrovolníky (v tabulce jsou osobní údaje).
 
 ## 2. Vlož skript

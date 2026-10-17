@@ -1,5 +1,5 @@
 // ============================================================
-//  Konfigurace webu „Staň se dobrovolníkem na Konferenci Charis“
+//  Konfigurace webu „Staň se dobrovolníkem na Konferenci CHARIS“
 //  Tohle je jediný soubor, který budeš potřebovat upravit.
 // ============================================================
 window.CHARIS_CONFIG = {
